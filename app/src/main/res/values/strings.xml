@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Session Tracking</string>
+    <string name="session_count">Session Count = %1$d</string>
+</resources>
